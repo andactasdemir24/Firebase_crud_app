@@ -3,7 +3,3 @@
 *.cc linguist-detectable=false
 *.kt linguist-detectable=false
 *.rb linguist-detectable=false
-*.plist linguist-detectable=false
-*.storyboard linguist-detectable=false
-*.entitlements linguist-detectable=false
-Podfile linguist-detectable=false
