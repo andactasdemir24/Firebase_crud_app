@@ -1,4 +1,4 @@
-# Firebase_crud_app
+# Firebase_Crud_App
 
 The data is stored in the Firebase Firestore. There are data addition, update and deletion functions in the application. I used the Slidable package for the update and delete buttons.
 
