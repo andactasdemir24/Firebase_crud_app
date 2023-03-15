@@ -1,16 +1,7 @@
-# firenase_crud2
+# firebase_crud_app
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/96003255/225457044-58324e41-4718-4a24-9480-33557d92d76d.png)
+![3](https://user-images.githubusercontent.com/96003255/225457049-07f49c63-78ff-49a7-8fc8-cc4d51765fa6.png)
+![4](https://user-images.githubusercontent.com/96003255/225457053-d985ef19-87a4-443b-9c15-82617f6e2061.png)
